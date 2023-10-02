@@ -54,6 +54,4 @@ const estilos = StyleSheet.create({
     },
 })
 
-//oi
-
 export default MySectionList
