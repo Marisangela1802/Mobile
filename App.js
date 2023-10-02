@@ -7,11 +7,12 @@ import {  Text, View, StyleSheet } from 'react-native';
 // import Calculadora from './components/09 Calculadora/09Calculadora';
 // import MyScrollView from './components/10ScrollView';
 // import MyFlatList from './components/11MyFlatList';
-import MySectionList from './components/12SctionList';
+// import MySectionList from './components/12SctionList';
+import MyNetworking from './Networking/14MyNetworking';
 
 export default function App() {
   return (
-      <MySectionList/>
+      <MyNetworking/>
   );
 }
 
