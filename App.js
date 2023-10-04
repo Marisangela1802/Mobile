@@ -9,11 +9,13 @@ import {  Text, View, StyleSheet } from 'react-native';
 // import MyFlatList from './components/11MyFlatList';
 // import MySectionList from './components/12SctionList';
 // import MyNetworking from './Networking/14MyNetworking';
-import MainScreen from './components/15NavStack/MainScreen';
+// import MainScreen from './components/15NavStack/MainScreen';
+import PokemonApp from './components/16Pokemon/PokemonApp';
+
 
 export default function App() {
   return (
-      <MainScreen/>
+      <PokemonApp/>
   );
 }
 
