@@ -10,12 +10,13 @@ import {  Text, View, StyleSheet } from 'react-native';
 // import MySectionList from './components/12SctionList';
 // import MyNetworking from './Networking/14MyNetworking';
 // import MainScreen from './components/15NavStack/MainScreen';
-import PokemonApp from './components/16Pokemon/PokemonApp';
+// import PokemonApp from './components/16Pokemon/PokemonApp';
+import Main from './components/03Atividade/Main';
 
 
 export default function App() {
   return (
-      <PokemonApp/>
+      <Main/>
   );
 }
 
